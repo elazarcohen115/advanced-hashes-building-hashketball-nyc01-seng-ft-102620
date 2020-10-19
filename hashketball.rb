@@ -21,7 +21,6 @@ def game_hash
         }
       ]
     },
-
     away:
     {
       team_name: "Charlotte Hornets",
@@ -41,6 +40,5 @@ def game_hash
         }
       ]
     }
-
   }
 end
