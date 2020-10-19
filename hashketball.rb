@@ -51,7 +51,7 @@ def game_hash
           steals: 3,
           blocks: 8,
           slam_dunks: 5
-        }
+        },
         {
           player_name: "Jason Terry",
           number: 31,
